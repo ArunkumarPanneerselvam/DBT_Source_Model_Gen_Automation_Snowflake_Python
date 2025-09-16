@@ -39,3 +39,5 @@ Build your Snowflake playground faster, with scripts:
 - Snowflake account (trial or production)  
 - Installed packages:  
   `dbt-core`, `dbt-snowflake`, `snowflake-connector-python`, `pandas`
+
+Detailed and step-by-step instructions at https://dev.to/arunkumar_panneerselvam_2/automating-your-local-dbt-snowflake-playground-with-python-7gl
